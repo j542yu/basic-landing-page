@@ -60,6 +60,7 @@ a {
     border-radius: 15px;
     object-fit: cover;
     max-width: 350px;
+    box-shadow: 8px 8px 15px rgba(0, 0, 0, 0.5);
 }
 
 .intro .text {
