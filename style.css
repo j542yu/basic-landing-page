@@ -7,6 +7,7 @@
 
 
 header,
+footer,
 .intro {
     background-color: #058c6a;
     display: flex;
@@ -176,3 +177,12 @@ figcaption {
     padding-bottom: 2vh;
     color: #03a383;
 } */
+
+/* footer */
+
+footer {
+    padding: 24px;
+    justify-content: center;
+    color: #d8ffec;
+    margin-top: 16px;
+}
