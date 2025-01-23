@@ -1,5 +1,6 @@
-## TOP Project 2 - Landing Page
+# Overview
+Note: This is completed as part of The Odin Project's Foundations course. It follows similar structural layout as the given design in the instructions, with different colours and content.
 
-Follows similar structural layout as given design with different colours and content
+Image and text sourced from my piano teacher, Penny Johnson (she's amazing!!)
 
-Image and text sourced from my piano teacher, Penny Johnson.
+To see the live site: https://j542yu.github.io/odin-landing-page/
