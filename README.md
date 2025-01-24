@@ -6,4 +6,4 @@ Note: This is completed as part of The Odin Project's Foundations course. It fol
 Image and text sourced from my piano teacher, Penny Johnson (she's amazing!!)
 
 ## Live Preview
-To see the live site: https://j542yu.github.io/odin-landing-page/
+To see the live site: https://j542yu.github.io/basic-landing-page/
